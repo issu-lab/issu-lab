@@ -1,8 +1,8 @@
 <div align="center">
 
-# iSSU
+<img src="assets/issu-white-badge.png" alt="iSSU Open Homelab Projects" width="100%">
 
-## Open Homelab
+<br>
 
 **Built for my homelab. Shared with the community.**
 
