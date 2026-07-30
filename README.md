@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/issu-white-badge.png" alt="iSSU Open Homelab Projects" width="100%">
+<img src="assets/issu-white-badge.png" alt="iSSU Open Homelab Projects" width="65%">
 
 <br>
 
