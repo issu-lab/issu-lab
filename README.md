@@ -31,6 +31,12 @@ A modular LCD-inspired climate card for Home Assistant, with visual configuratio
 
 **Home Automation · Active Development**
 
+### [ThermoPilot](https://github.com/issu-lab/thermopilot)
+
+A native Home Assistant climate controller that unifies sensors, presets and hardware commands with optional dedicated power feedback.
+
+**Home Automation · HACS Integration · Active Development**
+
 ### [Load Manager](https://github.com/issu-lab/ha-load-manager)
 
 An AppDaemon application that monitors electrical consumption and manages configured loads through Home Assistant.
