@@ -49,11 +49,11 @@ A self-hosted dashboard for organizing and accessing personal services and homel
 
 **Infrastructure · Docker · Active Development**
 
-### [IR Thermostat](https://github.com/issu-lab/termostato-ir)
+### [IR Thermostat](https://github.com/issu-lab/ir-thermostat)
 
-An AppDaemon climate controller that uses power consumption as real-world feedback for stateless infrared devices.
+A legacy AppDaemon climate controller that uses power consumption as real-world feedback for stateless infrared devices. It has been superseded by [ThermoPilot](https://github.com/issu-lab/thermopilot) and is retained for reference.
 
-**Home Automation · AppDaemon · Active Development**
+**Home Automation · AppDaemon · Superseded**
 
 ---
 
