@@ -49,6 +49,13 @@ A self-hosted dashboard for organizing and accessing personal services and homel
 
 **Infrastructure · Docker · Active Development**
 
+### [i3 Matrix](https://github.com/issu-lab/i3-matrix)
+
+A reproducible Matrix-inspired i3 theme for local and remote desktop sessions,
+with automatic backups and checksum-verified installation of Matrix-Icons.
+
+**Infrastructure · Linux Desktop · Active Development**
+
 ### [IR Thermostat](https://github.com/issu-lab/ir-thermostat)
 
 A legacy AppDaemon climate controller that uses power consumption as real-world feedback for stateless infrared devices. It has been superseded by [ThermoPilot](https://github.com/issu-lab/thermopilot) and is retained for reference.
