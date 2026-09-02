@@ -37,6 +37,12 @@ A native Home Assistant climate controller that unifies sensors, presets and har
 
 **Home Automation · HACS Integration · Active Development**
 
+### [Energy Report](https://github.com/issu-lab/energy-report)
+
+A native Home Assistant integration for resilient consumption accounting, monthly cost reports, forecasts and portable CSV history.
+
+**Home Automation · Energy Management · HACS Integration · Stable**
+
 ### [Load Manager](https://github.com/issu-lab/ha-load-manager)
 
 An AppDaemon application that monitors electrical consumption and manages configured loads through Home Assistant.
