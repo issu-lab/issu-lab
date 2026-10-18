@@ -49,7 +49,7 @@ A native Home Assistant integration for resilient consumption accounting, monthl
 
 **Home Automation · Energy Management · HACS Integration · Stable**
 
-### [Load Manager](https://github.com/issu-lab/ha-load-manager)
+### [Load Manager](https://github.com/issu-lab/load-manager)
 
 An AppDaemon application that monitors electrical consumption and manages configured loads through Home Assistant.
 
